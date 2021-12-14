@@ -1,6 +1,6 @@
 let fs = require('fs')
 let chalk = require('chalk')
-global.owner = ['62882003806038']
+global.owner = ['6281252848955']
 global.autoread = false
 global.selfmode = false
 global.autobio = false // or node . --autobio
